@@ -2,6 +2,8 @@
 
 Portfolio project by `@pkim02`.
 
+**Implementation proof:** see [IMPLEMENTATION.md](IMPLEMENTATION.md) for the RetinaNet backbone/FPN/subnet/loss decomposition and object-detection training evidence.
+
 ## Project Goal
 
 An object detection project implementing RetinaNet components and focal loss training behavior in PyTorch.
